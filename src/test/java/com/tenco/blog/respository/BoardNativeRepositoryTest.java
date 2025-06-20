@@ -1,7 +1,6 @@
 package com.tenco.blog.respository;
 
-import com.tenco.blog.model.Board;
-import com.tenco.blog.repository.BoardNativeRepository;
+import com.tenco.blog.board.Board;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
